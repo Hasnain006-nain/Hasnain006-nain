@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0A101F,48:0891B2,100:7C3AED&text=Hasnain%20Haider&fontColor=F8FAFC&fontSize=44&fontAlignY=35&desc=Applied%20AI%20Researcher%20%26%20Full-Stack%20Engineer&descAlignY=57&animation=fadeIn" alt="Hasnain Haider - Applied AI Researcher and Full-Stack Engineer" />
+<p align="center"><code>RESEARCH • ENGINEERING • REAL-WORLD IMPACT</code></p>
 
 <h1 align="center">Hi 👋, I'm Hasnain Haider <em>(Nain)</em></h1>
 
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/profile-scan.svg" width="390" alt="Animated dot-scan portrait of Hasnain Haider" />
+  <img src="./assets/profile-scan.gif" width="420" alt="Clear animated dot-scan portrait of Hasnain Haider" />
 </p>
 
 <p align="center">
@@ -170,4 +170,4 @@ I am a **Computer Science researcher and full-stack engineer from Pakistan, curr
   <a href="https://www.linkedin.com/in/hasnain-machinelearning-engineer/"><strong>Connect on LinkedIn</strong></a>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:7C3AED,52:0891B2,100:0A101F" alt="Decorative profile footer" />
+<p align="center"><code>AI RESEARCH • FULL-STACK SYSTEMS • OPEN COLLABORATION</code></p>
