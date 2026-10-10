@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td width="32%" align="center" valign="top">
-      <img src="./assets/profile-scan.gif" width="240" alt="Animated dotted portrait of Hasnain Haider" />
+<img src="./profile-scan.gif" width="240" alt="Animated dotted portrait of Hasnain Haider" />
     </td>
     <td width="68%" valign="top">
       <h1>Hasnain Haider (Nain)</h1>
